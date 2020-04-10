@@ -1,6 +1,2 @@
 # hello-world
-Test repository created April 2020
-
-First changes made to readme 
-
-nbtegrwfarhnbfd
+Test repository created 10th April 2020
